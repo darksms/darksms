@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Banner](https://example.com/your-banner.gif) <!-- Replace this URL with your banner GIF URL -->
 
-# Hello, I'm Your Name! 👋
+# Hello, I'm pranav! 👋
 
 ## About Me ℹ️
 
@@ -22,6 +22,6 @@ I'm a passionate developer who loves coding and creating awesome projects.
 
 ## Contact Me 📫
 
-- Email: your.email@example.com ![Email](https://img.shields.io/badge/-Email-blue)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername) ![Twitter](https://img.shields.io/badge/-Twitter-blue)
+- Email: pandeypranav000@gmail.com (https://img.shields.io/badge/-Email-blue)
+- LinkedIn: pranav(https://www.linkedin.com/in/yourusername/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
+
